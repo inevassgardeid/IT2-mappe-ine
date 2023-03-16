@@ -6,3 +6,10 @@ Vi bruker UML diagram for å planlegge prosjekter innenfor opbejktorienterte pro
 
 ![](uml.png)
 
+# Representasjon av programflyt med kontrollstrukturer
+
+## Flytdiagram
+
+Vi bruker flytdiagram for å illustrere hvordan et program skal oppføre seg. Brukeren tar et valg, og programmet handler etter dette valget. Man bruker flytdiagram for å bedre planlegge programmene sine. 
+
+![](flytdiagram.png)
