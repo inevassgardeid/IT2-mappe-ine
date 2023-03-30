@@ -69,7 +69,6 @@ while running:
     screen.fill("purple")
 
     # LAG SPILLET DIT HER:
-
     spiller.tegn()
 
     for hinder in hindere:
