@@ -76,7 +76,7 @@ while running:
             running = False
 
     # fill the screen with a color to wipe away anything from last frame
-    screen.fill(140, 184, 255)
+    screen.fill((140, 184, 255))
 
     # LAG SPILLET DIT HER:
     spiller.tegn()
